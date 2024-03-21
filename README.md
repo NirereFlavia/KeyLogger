@@ -1,6 +1,6 @@
 ### Hi there! I am NirereFlavia👋
 <h1 align="center">
-  <b>Today we are going to study about Keylogger</b>  
+  <b>Today we are going to study about Keylogger😊</b>  
 </h1>
 
 ### 👊Main knowldge about KeyLogger
@@ -20,6 +20,6 @@
 <p> 🛠️One of the important python libraries we are going to be using is pynput which include keyboard module which can be used to capture key events from user. After building our program, we will be able to record every data typed on our keyboard.<br>
 ✅Make sure that you allow threats (Found in settings in Virus and Threats protection).</p>
 
-<h> Don't hesitate to visite the code file where everything is more detailed, feel free to comment and give ideas.👋 </h>
+<h>🧑‍💻Don't hesitate to visite the code file (KeyLogger.py) where everything is more detailed, feel free to comment and give ideas.👋 </h>
 
 
